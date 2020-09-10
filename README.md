@@ -3,9 +3,10 @@ ____
 
 Programas de Solucion a problemas de Metodos de Simulación
 
-## Branch: First Part
-  (Jupyter Notebook para visualizacion)
+## Branch First Part
   ### Punto Uno:
+  
+  (Jupyter Notebook para visualizacion)
   
  - SIR.cpp : programa solucion 1.1
  
