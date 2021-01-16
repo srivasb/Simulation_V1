@@ -49,4 +49,4 @@ int main(void){
     for (double x=0;x<10;x+=0.1)
         cout <<x << " " << Bessel(Alpha,x,n) << endl; 
     return 0;
-}
+} 
